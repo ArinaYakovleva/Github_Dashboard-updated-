@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+#delete dist folder
+/dist
+
+node_modules/
+
+
+package-lock.json
